@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deploy-git-project/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-git-project/static/js/main.f0b4ab75.js",
-    "static/js/787.729fae76.chunk.js": "/deploy-git-project/static/js/787.729fae76.chunk.js",
-    "static/media/logo.svg": "/deploy-git-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/deploy-git-project/index.html",
-    "main.073c9b0a.css.map": "/deploy-git-project/static/css/main.073c9b0a.css.map",
-    "main.f0b4ab75.js.map": "/deploy-git-project/static/js/main.f0b4ab75.js.map",
-    "787.729fae76.chunk.js.map": "/deploy-git-project/static/js/787.729fae76.chunk.js.map"
+    "main.css": "/git-deploy-project/static/css/main.073c9b0a.css",
+    "main.js": "/git-deploy-project/static/js/main.a69c7f5b.js",
+    "static/js/787.729fae76.chunk.js": "/git-deploy-project/static/js/787.729fae76.chunk.js",
+    "static/media/logo.svg": "/git-deploy-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/git-deploy-project/index.html",
+    "main.073c9b0a.css.map": "/git-deploy-project/static/css/main.073c9b0a.css.map",
+    "main.a69c7f5b.js.map": "/git-deploy-project/static/js/main.a69c7f5b.js.map",
+    "787.729fae76.chunk.js.map": "/git-deploy-project/static/js/787.729fae76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f0b4ab75.js"
+    "static/js/main.a69c7f5b.js"
   ]
 }
